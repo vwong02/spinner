@@ -45,22 +45,3 @@ setTimeout(() => {
   process.stdout.write('\r-   ');
 }, 2100);
 
-setTimeout(() => {
-  process.stdout.write('\r\\   '); 
-}, 2300);
-
-setTimeout(() => {
-  process.stdout.write('\r|   ');
-}, 2500);
-
-setTimeout(() => {
-  process.stdout.write('\r/   ');
-}, 2700);
-
-setTimeout(() => {
-  process.stdout.write('\r-   ');
-}, 2900);
-
-setTimeout(() => {
-  process.stdout.write('\r\\   '); 
-}, 3100);
